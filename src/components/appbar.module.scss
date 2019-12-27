@@ -1,0 +1,52 @@
+.logo{
+    position: absolute;
+    width: 90px;
+    top:-10;
+    left: 30px;
+}
+.dropitem{
+    background-color: #035a58;
+    color:#ffffff;
+    text-decoration: none !important;
+}
+.dropitem:hover{
+    color:#28a745;
+        text-decoration: none !important;
+    background-color: #035a58;
+}
+.dropitem1{
+    background-color: #035a58;
+    margin-right: 30px;
+    font-size: 15px;
+    color:#ffffff;
+    text-decoration: none !important;
+}
+.dropitem1:hover{
+    color:#3aa352;
+    text-decoration: none !important;
+    background-color: #035a58;
+}
+.cardMain{
+    width:303px;
+    height: 227px;
+    display: flex;
+    text-align: center;
+    padding:40px;
+    box-shadow: rgba(0, 0, 0, 52)2px 2px 10px 0px;
+    box-sizing: border-box;
+    margin-left: 15px;
+    margin-top: 10%;
+}
+.title{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 20% 0 8px 0;
+    text-align: center;
+    text-decoration: none solid rgb(25, 42, 86);
+    font-family: sans-serif;
+}
+.text{
+    font-size: 0.7em;
+    text-decoration: none solid rgb(25, 42, 86);
+    font-family: sans-serif;
+}
